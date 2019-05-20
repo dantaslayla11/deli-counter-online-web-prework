@@ -25,8 +25,8 @@ def now_serving(array)
   puts "Now serving " + array[0].to_s
   array.shift
   array
- end
-end 
+end
+
 
 
 
