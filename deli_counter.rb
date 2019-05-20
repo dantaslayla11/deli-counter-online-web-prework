@@ -15,6 +15,8 @@ def take_a_number(array, string)
    puts line
    array
 end
+
+def now_serving
 end
 
 
