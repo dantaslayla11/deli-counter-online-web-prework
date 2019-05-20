@@ -23,8 +23,8 @@ def now_serving(array)
     puts "There is nobody waiting to be served!"
   end
   puts "Now serving " + array[0].to_s
-  array.unshift
-  array 
+  array.shift
+  array
  end
 end 
 
