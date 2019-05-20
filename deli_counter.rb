@@ -11,7 +11,7 @@ end
 
 def take_a_number(array, string)
    
-   line = "Welcome, " + string + ". You are number " + array.lenglth.to_s + " in line."
+   line = "Welcome, " + string + ". You are number " + array.length.to_s + " in line."
    puts line
    array.push(string)
 end
