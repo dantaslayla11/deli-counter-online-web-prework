@@ -16,7 +16,8 @@ def take_a_number(array, string)
    array
 end
 
-def now_serving
+def now_serving(array)
+  array.
 end
 
 
